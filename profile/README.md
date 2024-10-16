@@ -1,6 +1,6 @@
 ### 👋 Hi, it's SofT
 
-<img width="100%" src="https://github.com/user-attachments/assets/863599de-18be-4388-aca3-fc51fc0ca561"/>
+<img width="80%" src="https://github.com/user-attachments/assets/863599de-18be-4388-aca3-fc51fc0ca561"/>
 
 ### 🙋‍♀️ introduction
 
