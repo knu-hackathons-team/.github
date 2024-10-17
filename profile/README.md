@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, it's SofT
+# 👋 Hi, We're SofT
 
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=250&section=header&text=SofT%&fontSize=200&fontColor=1f2329" />
 
