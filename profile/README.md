@@ -26,8 +26,6 @@
  **BackEnd <a href="https://github.com/gunGeongun">gunGeongun(김건)</a>**<br>
  **BackEnd <a href="https://github.com/GitJIHO">GitJIHO(이지호)</a>**
 
-<br>
-<img width="7%" src="https://github.com/user-attachments/assets/863599de-18be-4388-aca3-fc51fc0ca561"/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=7ECA9A&height=100&section=footer)
 </div>
