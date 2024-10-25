@@ -2,7 +2,7 @@
 
 # 👋 Hi, We're SofT
 
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=250&section=header&text=SofT%&fontSize=200&fontColor=1f2329" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=7ECA9A&height=250&section=header&text=SofT%&fontSize=200&fontColor=1f2329" />
 
 ### 🙋‍♀️ introduction
 
@@ -29,5 +29,5 @@
 <br>
 <img width="7%" src="https://github.com/user-attachments/assets/863599de-18be-4388-aca3-fc51fc0ca561"/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7ECA9A&height=100&section=footer)
 </div>
