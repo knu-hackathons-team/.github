@@ -25,5 +25,8 @@
  **BackEnd <a href="https://github.com/gunGeongun">gunGeongun(김건)</a>**<br>
  **BackEnd <a href="https://github.com/GitJIHO">GitJIHO(이지호)</a>**
 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fknu-hackathons-team%2F&count_bg=%233DB7C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=7ECA9A&height=100&section=footer)
 </div>
