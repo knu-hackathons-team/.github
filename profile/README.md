@@ -15,6 +15,9 @@
 |----|----|----|
 | 2024.09 ~ |2024 하반기 척척학사 스터디 ||
 | 2024.09.22 | 2024 대구를 빛내는 해커톤|대상 수상 🥇|
+| 2024.11 ~ | 2024-2 소프트웨어 설계 프로젝트 | 최기영(FE) & 이지호(BE) |
+| 2024.11 ~ | 2024-2 소프트웨어 설계 프로젝트 | 박신영(FE) & 김 건(BE) |
+
 
 <br>
 
@@ -22,7 +25,7 @@
 
  **FrontEnd <a href="https://github.com/parknew0">parknew0(박신영)</a>**<br>
  **FrontEnd <a href="https://github.com/gogumalatte">gogumalatte(최기영)</a>**<br>
- **BackEnd <a href="https://github.com/gunGeongun">gunGeongun(김건)</a>**<br>
+ **BackEnd <a href="https://github.com/gunGeongun">gunGeongun(김 건)</a>**<br>
  **BackEnd <a href="https://github.com/GitJIHO">GitJIHO(이지호)</a>**
 
 
